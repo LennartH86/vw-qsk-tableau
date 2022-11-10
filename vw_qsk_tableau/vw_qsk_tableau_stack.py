@@ -51,3 +51,6 @@ class VwQskTableauStack(Stack):
         #    bucket=s3.Bucket(self, "vw-qsk-tableau-files"),
         #    bucket_key='registration.json'
         #)
+
+        #useradd ${TsmUsername} && echo "Creating TSM user"
+        #echo ${TsmPassword} | passwd ${TsmUsername} --stdin && echo "Setting password for TSM user"
