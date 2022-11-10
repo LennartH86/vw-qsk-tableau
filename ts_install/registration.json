@@ -12,5 +12,6 @@
     "department":"QSK",
     "first_name":"QSK",
     "email":"vw-qsk@test.de",
-    "company_employees":"10"
+    "company_employees":"10",
+    "opt_in":"false"
 }
