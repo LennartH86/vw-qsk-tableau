@@ -54,3 +54,5 @@ class VwQskTableauStack(Stack):
 
         #useradd ${TsmUsername} && echo "Creating TSM user"
         #echo ${TsmPassword} | passwd ${TsmUsername} --stdin && echo "Setting password for TSM user"
+
+        #/tmp/automated-installer -a tsadmin -s /tmp/secrets.txt -f /tmp/config.json -r /tmp/registration.json --accepteula --force tableau-install.rpm
